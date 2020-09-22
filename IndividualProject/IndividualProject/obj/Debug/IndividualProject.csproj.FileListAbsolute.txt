@@ -1,0 +1,12 @@
+C:\Users\nikar\source\repos\IndividualProject\IndividualProject\bin\Debug\IndividualProject.exe.config
+C:\Users\nikar\source\repos\IndividualProject\IndividualProject\bin\Debug\IndividualProject.exe
+C:\Users\nikar\source\repos\IndividualProject\IndividualProject\bin\Debug\IndividualProject.pdb
+C:\Users\nikar\source\repos\IndividualProject\IndividualProject\obj\Debug\IndividualProject.csprojAssemblyReference.cache
+C:\Users\nikar\source\repos\IndividualProject\IndividualProject\obj\Debug\IndividualProject.exe
+C:\Users\nikar\source\repos\IndividualProject\IndividualProject\obj\Debug\IndividualProject.pdb
+C:\Users\nikar\Desktop\CB10\Visual Studio Codes\IndividualProject\IndividualProject\bin\Debug\IndividualProject.exe.config
+C:\Users\nikar\Desktop\CB10\Visual Studio Codes\IndividualProject\IndividualProject\bin\Debug\IndividualProject.exe
+C:\Users\nikar\Desktop\CB10\Visual Studio Codes\IndividualProject\IndividualProject\bin\Debug\IndividualProject.pdb
+C:\Users\nikar\Desktop\CB10\Visual Studio Codes\IndividualProject\IndividualProject\obj\Debug\IndividualProject.csprojAssemblyReference.cache
+C:\Users\nikar\Desktop\CB10\Visual Studio Codes\IndividualProject\IndividualProject\obj\Debug\IndividualProject.exe
+C:\Users\nikar\Desktop\CB10\Visual Studio Codes\IndividualProject\IndividualProject\obj\Debug\IndividualProject.pdb
